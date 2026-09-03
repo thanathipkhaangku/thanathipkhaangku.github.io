@@ -7,7 +7,7 @@ body {
   color: #333;
 }
 header {
-  background: #4CAF50;
+  background: #d66915;
   color: white;
   padding: 20px 0;
   text-align: center;
@@ -49,5 +49,5 @@ footer {
 }
 footer a {
 text-decoration: none;
-colour: #2596be;
+colour: #d66915;
 }
