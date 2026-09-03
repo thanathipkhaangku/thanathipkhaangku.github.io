@@ -1,3 +1,4 @@
 document.addEventListener('DOMContentLoaded',function () {
-  console.log('Portfolio ของ Kanit พร้อมแล้ว!');
+  document.getElementById('year').innerHTML = new Date().getFullYear();
+  console.log('Portfolio ของ Ploy พร้อมแล้ว!');
 });
